@@ -6,7 +6,7 @@ Here is some personal information about me:
 - 📖 I'm currently learning && using Java...
 - - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
 - 📫 How to reach me: ryuuei147258@hotmail.com.
-- 💬 Wechat: zhoudeyou945.
+- 💬 Wechat: kiddo147258.
 
 **🔧 Language && Tools**  
 ![kiddoliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiddoliu&hide=contribs,prs&theme=radical)
