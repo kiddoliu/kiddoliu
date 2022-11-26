@@ -5,7 +5,7 @@ Here is some personal information about me:
 - 🔭 I'm Chinese and currently working in Beijing.
 - 📖 I'm currently learning && using Java...
 - - 🌱 Ask me about any question about my repos or directly give me a issue/pr~
-- 📫 How to reach me: zhoudeyou945@126.com.
+- 📫 How to reach me: ryuuei147258@hotmail.com.
 - 💬 Wechat: zhoudeyou945.
 
 **🔧 Language && Tools**  
