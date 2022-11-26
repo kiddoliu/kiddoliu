@@ -9,4 +9,4 @@ Here is some personal information about me:
 - 💬 Wechat: zhoudeyou945.
 
 **🔧 Language && Tools**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiddoliu&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiddoliu&repo=github-readme-stats)](https://github.com/kiddoliu/github-readme-stats)
