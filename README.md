@@ -9,5 +9,4 @@ Here is some personal information about me:
 - 💬 Wechat: zhoudeyou945.
 
 **🔧 Language && Tools**  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddoliu)](https://github.com/kiddoliu/github-readme-stats)
 ![kiddoliu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiddoliu&hide=contribs,prs&theme=radical)
